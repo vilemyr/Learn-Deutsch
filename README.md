@@ -2,9 +2,7 @@
 
 This is a book diving deep into the core mechanisms of the German language. 
 
-## Titles
-
-[Table of Contents](toc.md)
+## [Table of Contents](toc.md)
 
 * [Foreword](foreword.md)
 * [Preface](../preface.md)
