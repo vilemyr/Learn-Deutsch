@@ -2,9 +2,9 @@
 
 This is a book diving deep into the core mechanisms of the German language. 
 
-## [Table of Contents]
+## Table of Contents
 
-* Alphabet
+* Chapter 1 (The German Alphabet)
 
 ## License & Copyright
 
