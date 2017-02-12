@@ -2,16 +2,9 @@
 
 This is a book diving deep into the core mechanisms of the German language. 
 
-## [Table of Contents](toc.md)
+## [Table of Contents]
 
-* [Foreword](foreword.md)
-* [Preface](../preface.md)
-* [Chapter 1: Asynchrony: Now & Later](ch1.md)
-* [Chapter 2: Callbacks](ch2.md)
-* [Chapter 3: Promises](ch3.md)
-* [Chapter 4: Generators](ch4.md)
-* [Chapter 5: Program Performance](ch5.md)
-* [Chapter 6: Benchmarking & Tuning](ch6.md)
+* Alphabet
 
 ## License & Copyright
 
