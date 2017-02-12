@@ -1,2 +1,1 @@
-# learn-german
-Learn Deutsch - The Complete Guide
+# Learn Deutsch - The Complete Guide
