@@ -1,6 +1,6 @@
 # Learn Deutsch - The Complete Guide
 
-This is a book diving deep into the core mechanisms of the German language. 
+----
 
 ## Table of Contents
 
