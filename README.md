@@ -1,7 +1,5 @@
 # Learn Deutsch - The Complete Guide
 
-----
-
 ## Table of Contents
 
 * Chapter 1 (The German Alphabet)
